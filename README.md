@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Jocelynn
-- 🔭 Working on a .NetCore WebAPI project during my 9 to 5
-- 🧭 Writing a SpaceX ship/mission dashboard with React JS in my free time 
-- 📖 Reading The Pragmatic Programmer
-- 🌱 Learning about Machine Learning and Infrastructure as Code
+- 🔭 Working on an Azure Functions, Logic Apps, and .Net Web API team during my 9 to 5
+- 🧭 Freelancing on a React/Serverless website  
+- 🌱 Learning about GPT-3 
 - 📫 How to reach me: jrthartwig@gmail.com 
