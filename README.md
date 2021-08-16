@@ -3,3 +3,5 @@
 - 🧭 Freelancing on a React/Serverless website  
 - 🌱 Learning about GPT-3 
 - 📫 How to reach me: jrthartwig@gmail.com 
+
+::: mermaid
