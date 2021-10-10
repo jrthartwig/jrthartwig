@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Jocelynn
-- 🔭 Working on an Azure Functions, Logic Apps, and .Net Web API team during my 9 to 5
-- 🧭 Freelancing on a React/Serverless website  
+- 🔭 Working on an Azure Machine Learning team as my day job
+- 🧭 Freelancing on a few React/Headless CMS websites 
 - 🖋️ Writing about my technical/hobbyist adventures [here](https://blog.jocelynnlearns.com/)
-- 🌱 Learning about serverless architecture 
+- 🌱 Learning about Machine Learning algorithms 
 - 📫 How to reach me: jrthartwig@gmail.com 
