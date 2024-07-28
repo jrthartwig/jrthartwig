@@ -1,4 +1,4 @@
 ### Hi there 👋 I'm Jocelynn
-- 🔭 Working as a consulting cloud architect and team lead on a federal project
-- 🌱 Learning about Large Multimodal Models
+- 🔭 I'm a Senior Data and AI Technology Specialist at Microsoft. 
+- 🌱 Currently learning about Human-Centered AI. 
 - 📫 How to reach me: jocelynnhartwig@gmail.com
