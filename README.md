@@ -1,4 +1,4 @@
 ### Hi there 👋 I'm Jocelynn
-- 🔭 I'm a Senior Data and AI Technology Specialist at Microsoft. 
-- 🌱 Currently learning about Human-Centered AI and Quantum Computing. 
+- 🔭 I'm a Senior AI Solution at Microsoft. 
+- 🌱 Currently learning multi-agent workflows and context engineering. 
 - 📫 How to reach me: jocelynnhartwig@gmail.com
