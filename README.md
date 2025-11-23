@@ -1,4 +1,4 @@
 ### Hi there 👋 I'm Jocelynn
-- 🔭 I'm a Senior AI Solution Engineer at Microsoft. 
-- 🌱 Currently learning multi-agent workflows and context engineering. 
+- 🔭 I'm a Director of AI Solution Engineering at Microsoft. 
+- 🌱 Currently learning about multi-agent workflows and context engineering. 
 - 📫 How to reach me: jocelynnhartwig@gmail.com
